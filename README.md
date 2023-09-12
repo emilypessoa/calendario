@@ -6,7 +6,7 @@
 [Autores](https://github.com/emilypessoa/calendario#autores)  
 
 # 📆Projeto - Calendário Interativo
-[gif](img/Gravando-2023-09-12-075005.gif)
+![gif](img/Gravando-2023-09-12-075005.gif)
 ## 📄Descrição 
 O Calendário Interativo é uma aplicação da web simples, que permite aos usuários visualizar e adicionar seus eventos diários, semanais com cores em um formato de calendário intuitivo. Este projeto foi desenvolvido utilizando HTML, CSS e JavaScript e oferece uma variedade de recursos para ajudar os usuários a acompanhar seus compromissos, reuniões e atividades importantes.
 
