@@ -1,11 +1,11 @@
 # Índice
-[Projeto Calendário](https://github.com/emilypessoa/calendario#projeto---portif%C3%B3lio-para-escrita-do-readme)
-[Descrição](#descri%C3%A7%C3%A3o)
-[Funcionalidades](https://github.com/emilypessoa/calendario#%EF%B8%8Ffuncionalidades)
-[Tecnologias utilizadas](https://github.com/emilypessoa/calendario#tecnologias-utilizadas)
-[Autores](https://github.com/emilypessoa/calendario#autores)
+[Calendário Interativo](https://github.com/emilypessoa/calendario#projeto---portif%C3%B3lio-para-escrita-do-readme) 
+[Descrição](#descri%C3%A7%C3%A3o) 
+[Funcionalidades](https://github.com/emilypessoa/calendario#%EF%B8%8Ffuncionalidades) 
+[Tecnologias utilizadas](https://github.com/emilypessoa/calendario#tecnologias-utilizadas) 
+[Autores](https://github.com/emilypessoa/calendario#autores) 
 
-# 📋Projeto - Calendário interativo
+# 📋Projeto - Calendário Interativo
 ![image](img/Captura%20de%20tela%202023-09-12%20072629.png)
 
 ## 📄Descrição 
@@ -22,13 +22,9 @@ O Calendário Interativo é uma aplicação da web simples, que permite aos usu�
 O Calendário Interativo é desenvolvido usando um conjunto de tecnologias web modernas para criar uma experiência interativa e responsiva para os usuários. Cada uma dessas tecnologias desempenha um papel crucial na construção e funcionamento do aplicativo.
 
 * GitHub
-
 * Visual Studio Code (VSCode)
-
 * HTML
-
 * CSS
-
 * JavaScript
 
 ## 👥Autores
